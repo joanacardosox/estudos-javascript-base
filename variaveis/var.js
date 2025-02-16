@@ -1,3 +1,5 @@
+//Em todas as hipoteses use o let e cost para as variaveis
+
 function resultado() {
   if (true) {
     var messagem = "Var é disponivel dentro da função!";
